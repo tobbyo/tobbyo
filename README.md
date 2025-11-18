@@ -47,7 +47,6 @@ automation, and investigative analysis.
 - Google Cybersecurity Professional Certificate  
 - SIEM fundamentals and log analysis  
 - Secure coding, API hardening, threat modeling  
-- Cloud security concepts (Azure)
 
 ---
 
