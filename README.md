@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tobby
 
-### Senior .NET Developer | Cloud & API Engineer | SDET/Automation | Security-Focused
+### .NET Developer | Cloud & API Engineer | SDET/Automation | Security-Focused
 
 I’m a software engineer with several years of experience delivering enterprise systems across government, 
 finance, and healthcare. I build modern .NET APIs, cloud-ready architectures, integration workflows, and 
