@@ -2,7 +2,7 @@
 
 ### Senior .NET Developer | Cloud & API Engineer | SDET/Automation | Security-Focused
 
-I’m a software engineer with 10+ years of experience delivering enterprise systems across government, 
+I’m a software engineer with several years of experience delivering enterprise systems across government, 
 finance, and healthcare. I build modern .NET APIs, cloud-ready architectures, integration workflows, and 
 scalable automation frameworks. I also focus on documentation, modernization, and improving the 
 reliability of complex legacy environments.
